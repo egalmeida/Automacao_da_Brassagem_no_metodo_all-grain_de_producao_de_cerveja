@@ -1,7 +1,7 @@
 #include <WiFi.h>
 
-#define ssid "****"
-#define password "****"
+#define ssid "NOME DA REDE"
+#define password "SENHA DA REDE"
 
 //inicializa wifi//
 void wifi_init()
