@@ -3,29 +3,29 @@
 #define mqttPort 1883
 #define mqttUser "USUARIO DO BROKER"
 #define mqttPassword "SENHA DO BROKER"
-#define mqttTopic "eric_ga_@hotmail.com/Projeto_TCC"
+#define mqttTopic "SEU TOPICO/Projeto_TCC"
 
 //Definições dos topicos MQTT
 // mensagens  
-#define Topico_Mensagem "eric_ga_@hotmail.com/Projeto_TCC/Mensagem"
-#define Topico_MensagemP "eric_ga_@hotmail.com/Projeto_TCC/MensagemP"
-#define Topico_DisplayS1 "eric_ga_@hotmail.com/Projeto_TCC/DisplayS1"
-#define Topico_DisplayS2 "eric_ga_@hotmail.com/Projeto_TCC/DisplayS2"
-#define Topico_DisplayS3 "eric_ga_@hotmail.com/Projeto_TCC/DisplayS3"
+#define Topico_Mensagem "SEU TOPICO/Projeto_TCC/Mensagem"
+#define Topico_MensagemP "SEU TOPICO/Projeto_TCC/MensagemP"
+#define Topico_DisplayS1 "SEU TOPICO/Projeto_TCC/DisplayS1"
+#define Topico_DisplayS2 "SEU TOPICO/Projeto_TCC/DisplayS2"
+#define Topico_DisplayS3 "SEU TOPICO/Projeto_TCC/DisplayS3"
 //Botão
-#define Topico_BtLigar "eric_ga_@hotmail.com/Projeto_TCC/BtLigar"
-#define Topico_BtLigar_Status "eric_ga_@hotmail.com/Projeto_TCC/BtLigarStatus"
+#define Topico_BtLigar "SEU TOPICO/Projeto_TCC/BtLigar"
+#define Topico_BtLigar_Status "SEU TOPICO/Projeto_TCC/BtLigarStatus"
 
 //Leds
-#define Topico_LedLigar "eric_ga_@hotmail.com/Projeto_TCC/LedLigar"
-#define Topico_LedBomba "eric_ga_@hotmail.com/Projeto_TCC/LedBomba"
+#define Topico_LedLigar "SEU TOPICO/Projeto_TCC/LedLigar"
+#define Topico_LedBomba "SEU TOPICO/Projeto_TCC/LedBomba"
 
-#define Topico_LedR1 "eric_ga_@hotmail.com/Projeto_TCC/LedR1"
-#define Topico_LedR2 "eric_ga_@hotmail.com/Projeto_TCC/LedR2"
-#define Topico_LedR3 "eric_ga_@hotmail.com/Projeto_TCC/LedR3"
-#define Topico_LedV1 "eric_ga_@hotmail.com/Projeto_TCC/LedV1"
-#define Topico_LedV2 "eric_ga_@hotmail.com/Projeto_TCC/LedV2"
-#define Topico_LedV3 "eric_ga_@hotmail.com/Projeto_TCC/LedV3"
+#define Topico_LedR1 "SEU TOPICO/Projeto_TCC/LedR1"
+#define Topico_LedR2 "SEU TOPICO/Projeto_TCC/LedR2"
+#define Topico_LedR3 "SEU TOPICO/Projeto_TCC/LedR3"
+#define Topico_LedV1 "SEU TOPICO/Projeto_TCC/LedV1"
+#define Topico_LedV2 "SEU TOPICO/Projeto_TCC/LedV2"
+#define Topico_LedV3 "SEU TOPICO/Projeto_TCC/LedV3"
 
 //Define cores dos Leds
 const int Led_Lig = 2;
