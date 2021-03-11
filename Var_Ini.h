@@ -1,8 +1,8 @@
 //Definiçoes de Aacesso MQTT
 #define mqttServer "maqiatto.com"
 #define mqttPort 1883
-#define mqttUser "eric_ga_@hotmail.com"
-#define mqttPassword "wag1nmeuf1"
+#define mqttUser "USUARIO DO BROKER"
+#define mqttPassword "SENHA DO BROKER"
 #define mqttTopic "eric_ga_@hotmail.com/Projeto_TCC"
 
 //Definições dos topicos MQTT
