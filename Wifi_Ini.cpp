@@ -1,10 +1,7 @@
 #include <WiFi.h>
 
-//#define ssid "Air_Diretoria"
-//#define password "@scala410#"
-
-#define ssid "lwalmeida"
-#define password "9876543211234"
+#define ssid "****"
+#define password "****"
 
 //inicializa wifi//
 void wifi_init()
